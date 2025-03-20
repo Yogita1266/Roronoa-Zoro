@@ -1,0 +1,66 @@
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body>
+    <h6>Yogita CS24189</h6>
+    <h1><marquee><i>RESUME</i></marquee></h1>
+    <img src = "myphoto1.jpeg" align = "right" width="180px" height="190px">
+<ol> <p align="left">
+        <li><b>Name</b>: Yogita Thakre</li>
+        <li><b>Email.ID</b>: yt.123@gmail.com</li>
+        <li><b>Address</b>: Kharbi Road,Nagpur</li>
+        <li><b>Mobile No.</b>: 9096524002</li>
+        <li><b>Linkedin Link</b>: https://www.linkedin.com/in/yogita-thakre-60a488315</li>
+        <li><b>GitHub ID</b>: Yogita1266</li>
+</p>
+    </ol>
+    <hr>
+    <h3>SUMMARY:-</h3>
+    <p>
+
+    </p>
+    <hr>
+    <h3>EDUCATION DETAILS:-</h3>
+    <table border="n" cellspacing="n" cellpadding="1">
+    <tr bgcolor="lightsteelblue">
+        <th>Sr.No</th>
+        <th>Board</th>
+        <th>University</th>
+        <th>Passing Year</th>
+        <th>Percentage/CGPA</th></tr>
+        <tr>
+            <td>1.</td>
+            <td>Maharashtra State Board(10th)</td>
+            <td>MSBSHSE</td>
+            <td>2022</td>
+            <td>91.37%</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>Maharashtra State Board(12th)</td>
+            <td>MSBSHSE</td>
+            <td>2024</td>
+            <td>68%</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td><p align="center">-</p></td>
+            <td>Rashtra Sant Tukdoji Maharaj University,Nagpur</td>
+            <td>2025</td>
+            <td>7.76 CGPA</td>
+        </tr>
+        </table>
+        <hr>
+        <h3>Hobbies:-</h3>
+            Dancing,Cooking,Poetry,Drawing,Singing
+        <hr>
+        <h3>Interest:-</h3>Animation,Graphics
+        <hr>
+        <h3>Know Language Technically:-</h3>Germany,English,Spanish,French
+
+    
+
+    
+</body>
+</html>
